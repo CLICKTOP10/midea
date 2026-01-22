@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="🎬 Filmes",Filme Exemplo
+http://LINK-DO-FILME.mp4
+
+#EXTINF:-1 group-title="📺 Séries",Destinos Aterrorizantes S02E05
+http://avu.lat:80/play/Eh2AcUkOt1CR96bSUsmH9JbaPmW9P776jnG2KJixaLL0aPWPFRi3wSDBfUrrp2p#.mp4
+
+#EXTINF:-1 group-title="📺 Séries",As Doces Aventuras de Chi S01E01
+http://avu.lat:80/play/Eh2AcUkOt1CR96bUsmH9MhH8uzBxFZ6SljoiHRM8wFUBgF8e7of9WroJzE0qJ#.mp4
+
+#EXTINF:-1 group-title="📺 Séries",As Doces Aventuras de Chi S01E02
+http://avu.lat:80/play/Eh2AcUkOt1CR96bUsmH9MhH8uzBxFZ6SljoiHRM8wEKen0hTh3cc04zu6PI1_bw#.mp4
+
+#EXTINF:-1 group-title="📺 Séries",Malhação Seu Lugar no Mundo S01E18
+http://avu.lat:80/play/Eh2AcUkOt1CR96bUsmH9NV25Q4L7yedy-Q5DtL4P-KV_XDNHQbxnirkQ69D9CQq#.mp4
+
+#EXTINF:-1 group-title="🧸 Desenhos",Desenho Exemplo
+http://LINK-DO-DESENHO.mp4
